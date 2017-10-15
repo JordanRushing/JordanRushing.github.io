@@ -20,7 +20,7 @@ description: This is my personal website. Here you can find my contact informati
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://JordanRushing.github.io
 author: Jordan Rushing
-  name: Jordan Rushing
+  name:
   twitter:
   picture:
 twitter_username:
