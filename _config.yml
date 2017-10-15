@@ -19,8 +19,8 @@ email: rushing.jordan@gmail.com
 description: This is my personal website. Here you can find my contact information as well as open-source works and professional musings.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://JordanRushing.github.io
-author: Jordan Rushing
-  name:
+author:
+  name: Jordan Rushing
   twitter:
   picture:
 twitter_username:
