@@ -26,6 +26,7 @@ author: Jordan Rushing
 twitter_username:
 github_username: JordanRushing
 logo: # path of site logo, e.g. "/assets/images/logo.png"
+google_analytics: UA-108130669-1
 
 # Build settings
 markdown: kramdown
